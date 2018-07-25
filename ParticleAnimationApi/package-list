@@ -1,5 +1,6 @@
 com.aim.coltonjgriswold.paapi
 com.aim.coltonjgriswold.paapi.api.graphics
+com.aim.coltonjgriswold.paapi.api.graphics.enums
 com.aim.coltonjgriswold.paapi.api.graphics.events
 com.aim.coltonjgriswold.paapi.api.graphics.geometry
 com.aim.coltonjgriswold.paapi.api.graphics.utilities
