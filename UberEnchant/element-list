@@ -1,12 +1,8 @@
 me.sciguymjm.uberenchant
-me.sciguymjm.uberenchant.actions
-me.sciguymjm.uberenchant.actions.abstraction
 me.sciguymjm.uberenchant.api
 me.sciguymjm.uberenchant.api.events
 me.sciguymjm.uberenchant.api.utils
 me.sciguymjm.uberenchant.commands
 me.sciguymjm.uberenchant.commands.abstraction
-me.sciguymjm.uberenchant.enchantments
 me.sciguymjm.uberenchant.enchantments.abstraction
 me.sciguymjm.uberenchant.utils
-me.sciguymjm.uberenchant.utils.data
