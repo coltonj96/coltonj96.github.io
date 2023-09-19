@@ -2,6 +2,7 @@ me.sciguymjm.uberenchant
 me.sciguymjm.uberenchant.api
 me.sciguymjm.uberenchant.api.events
 me.sciguymjm.uberenchant.api.utils
+me.sciguymjm.uberenchant.api.utils.random
 me.sciguymjm.uberenchant.commands
 me.sciguymjm.uberenchant.commands.abstraction
 me.sciguymjm.uberenchant.enchantments.abstraction
